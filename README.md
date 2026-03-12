@@ -5,7 +5,7 @@ Go 1.26 release features skill for [Claude Code](https://claude.com/claude-code)
 ## Install
 
 ```bash
-npx skills.sh install luoling8192/go-1-26-skill
+npx skills install luoling8192/go-1-26-skill
 ```
 
 ## What's Included
